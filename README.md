@@ -1,2 +1,2 @@
-# Homework_1
-https://nataliiaskhovka.github.io/Homework_1/ 
+# goit-markup-hw-01
+ https://nataliiaskhovka.github.io/goit-markup-hw-01/
